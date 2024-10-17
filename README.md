@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmilinkovich
-- 👀 I’m interested in ede computin
+- 👀 I’m interested in edge computing
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 49ers fan
 
